@@ -9,10 +9,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.14",
+    "@heroicons/react": "^2.0.17",
     "@t3-oss/env-nextjs": "^0.2.1",
+    "daisyui": "^2.51.6",
     "next": "^13.2.4",
+    "next-themes": "^0.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "tw-elements": "1.0.0-beta2",
+    "typewriter-effect": "^2.19.0",
     "zod": "^3.21.4"
   },
   "devDependencies": {
